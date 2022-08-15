@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+}
+.mains{
+    margin:auto;
+    width : 50%;
+}
+button{
+    left:50%;
+}
+h2{
+    text-align : center;
+}
+.formss{
+    float:center;
+    margin-right : 30px;
+}
+input{
+    border: 1px solid black;
+    padding:2px;
+    margin : 2px;
+    border-radius : 3px;
+}
+.btn-primary{
+
+    padding : 3px;
+    size : 1px;
+    margin-left: 3px;
+}
